@@ -49,6 +49,9 @@ yarn-error.log*
 # Factory / Codegraph local cache
 .codegraph/
 
+# Archify diagram output
+.archify/
+
 # macOS system files
 .DS_Store
 .DS_Store?
